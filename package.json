@@ -1,0 +1,24 @@
+{
+  "name": "blogappapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "barkat",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "device": "^0.3.9",
+    "device-uuid": "^1.0.4",
+    "express": "^4.16.4",
+    "google-libphonenumber": "^3.2.2",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.20",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.2.1"
+  }
+}
